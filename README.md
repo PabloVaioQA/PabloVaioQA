@@ -6,7 +6,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=thefreerangetester&color=blue" alt=""/>
   <h1>
-  hey there
+  hey there !!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -17,13 +17,24 @@
 ---
 ### :man_technologist: About Me :
 I am a QA Automation Tester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
-- :telescope: I’m working as a Senior Test Engineer Contractor and contributing to projects both in Wellington and remotely around all New Zealand and Australia.
+- :telescope: My goal is to ensure the quality and efficiency of software through test automation, contributing to faster, more reliable, and error-free development processes.
 
-- :seedling: Mentoring the new generations of Test Engineers in New Zealand through <a href="https://devacademy.co.nz/testing-automation-essentials/">DevAcademy Aotearoa</a>
+- :seedling: My preferred frameworks are Selenium (Java) and Cypress (Javascript).
 
-- :zap: In my free time, I create content for <a href="https://www.freerangetesters.com/">Free Range Testers</a> and make music on <a href="https://open.spotify.com/intl-es/artist/1n8lYlkH7XKivKBmh6oey1/">Modern Druids</a>.
+- :zap: In my free time, I like to do different types of art, ride skateboards and bikes, and make music </a>.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablovaio/)
+
+---
+### :man_technologist: Sobre Mi :
+Soy un Tester QA Automation <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de Argentina.
+- :telescope: Mi objetivo es asegurar la calidad y eficiencia del software mediante la automatización de pruebas, contribuyendo a procesos de desarrollo más rápidos, confiables y sin errores.
+
+- :seedling: Mis frameworks de automatización preferidos son Selenium(Java) y Cypress (Javascript).
+
+- :zap: En mi tiempo libre me gusta hacer distintos tipos de arte, andar en skate y bicicleta, y hacer música </a>.
+
+- :mailbox: Como contactarme: [![Linkedin Badge](https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablovaio/)
 
 ---
 
@@ -33,7 +44,6 @@ I am a QA Automation Tester <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
